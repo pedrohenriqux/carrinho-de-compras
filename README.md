@@ -12,6 +12,6 @@ Case prático desenvolvido durante o módulo intermediário no curso de desenvol
 
 ## 👩🏻‍🏫 Informações:
 
-Turma: **FSN3**.
-Professor(a): Fernanda Nascimento.
-Facilitador(a): Gabriel Bezerra.
+- Turma: **FSN3**.
+- Professor(a): Fernanda Nascimento.
+- Facilitador(a): Gabriel Bezerra.
